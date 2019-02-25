@@ -1,0 +1,12 @@
+[package]
+name = "elaml_ss18"
+version = "0.1.0"
+authors = ["Danilo Brajovic and Tristan Baumann"]
+
+[dependencies]
+ndarray = "0.11"
+stdinout = "0.4"
+num = "0.2"
+la = "0.2.0"
+rusty-machine="0.5.4"
+plotlib = "0.3"
